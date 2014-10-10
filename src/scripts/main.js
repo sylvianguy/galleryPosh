@@ -12,9 +12,9 @@ $(function() {
     }
 });
   galItems.hover(function() {
-    $('.gallery').addClass('blurred');
+    $('.gallery').addClass('dimmed');
   }, function() {
-    $('.gallery').removeClass('blurred');
+    $('.gallery').removeClass('dimmed');
   });
 
 });

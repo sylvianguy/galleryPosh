@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "normalize-scss": "~3.0.1",
-    "fancybox-scss": "~2.2.0"
+    "fancybox-scss": "~2.2.0",
+    "font-awesome": "~4.2.0"
   }
 }
