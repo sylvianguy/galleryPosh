@@ -1,0 +1,22 @@
+{
+  "name": "galleryPosh",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SeeThruHead/galleryPosh",
+  "authors": [
+    "Shane Keulen Sylvia Nguyen"
+  ],
+  "description": "week 4 project",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-scss": "~3.0.1",
+    "fancybox-scss": "~2.2.0"
+  }
+}
